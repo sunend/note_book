@@ -69,4 +69,3 @@ function count_pages($) {
     }
     return arr
 }
-load_detail_page("http://xs.dmzj.com/852/2989/67675.shtml")
